@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactCSVParser.Web", "ReactCSVParser.Web\ReactCSVParser.Web.csproj", "{A9E50370-255A-460B-A8F4-474FF058CC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactCSVParser.Data", "ReactCSVParser.Data\ReactCSVParser.Data.csproj", "{2307FF5F-2296-4D6D-B644-BAA1407F673C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E50370-255A-460B-A8F4-474FF058CC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E50370-255A-460B-A8F4-474FF058CC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E50370-255A-460B-A8F4-474FF058CC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E50370-255A-460B-A8F4-474FF058CC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2307FF5F-2296-4D6D-B644-BAA1407F673C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2307FF5F-2296-4D6D-B644-BAA1407F673C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2307FF5F-2296-4D6D-B644-BAA1407F673C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2307FF5F-2296-4D6D-B644-BAA1407F673C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
